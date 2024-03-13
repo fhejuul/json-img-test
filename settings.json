@@ -1,6 +1,8 @@
-{
-  "courseTimeout": "19600",
-  "dataRefreshInterval": "80",
-  "linesPerPage": "10",
-  "paginationinterval": "10"
-}
+[
+  {
+    "courseTimeout": "19600",
+    "dataRefreshInterval": "80",
+    "linesPerPage": "10",
+    "paginationinterval": "10"
+  }
+]
