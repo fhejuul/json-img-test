@@ -1,8 +1,44 @@
 [
-  {
-    "courseTimeout": "19600"
-    "dataRefreshInterval": "80",
-    "linesPerPage": "10",
-    "paginationinterval": "10"
-  }
+    {
+        "Dato": "14-03-2024",
+        "Starttid": "08:00:00",
+        "Lokale": "Lok. H8",
+        "Kategori": "BAB-3A",
+        "Kursusnavn": "Befordring af fysisk handicappede med liftbil"
+    },
+    {
+        "Dato": "14-03-2024",
+        "Starttid": "08:00:00",
+        "Lokale": "Lok. H8",
+        "Kategori": "BABB",
+        "Kursusnavn": "BAB 1-2-3A Befordring Af Bevægelseshæmmede"
+    },
+    {
+        "Dato": "14-03-2024",
+        "Starttid": "08:00:00",
+        "Lokale": "Lok. H10",
+        "Kategori": "GT",
+        "Kursusnavn": "Gaffeltruck Certifikatkursus B"
+    },
+    {
+        "Dato": "14-03-2024",
+        "Starttid": "08:00:00",
+        "Lokale": "Lok. H3",
+        "Kategori": "C",
+        "Kursusnavn": "Godstransport med lastbil"
+    },
+    {
+        "Dato": "14-03-2024",
+        "Starttid": "08:00:00",
+        "Lokale": "Lok. H3",
+        "Kategori": "D/EP",
+        "Kursusnavn": "Buskørekort"
+    },
+    {
+        "Dato": "14-03-2024",
+        "Starttid": "08:00:00",
+        "Lokale": "Lok. H3",
+        "Kategori": "TK",
+        "Kursusnavn": "Kvalifikation til persontransport i mindre køretøj (48652) - Taxikort 10 dage"
+    }
 ]
