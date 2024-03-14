@@ -1,8 +1,32 @@
-[
+[{
             hvidovre: {
                 courseTimeout: 3600000,
                 dataRefreshInterval: 360000,
                 linesPerPage: 10,
                 paginationInterval: 10000
+            },
+            holbaek: {
+                courseTimeout: 3600000,
+                dataRefreshInterval: 360000,
+                linesPerPage: 10,
+                paginationInterval: 100000
+            },
+            koege: {
+                courseTimeout: 3600000,
+                dataRefreshInterval: 360000,
+                linesPerPage: 10,
+                paginationInterval: 100000
+            },
+            roskildeAdmin: {
+                courseTimeout: 3600000,
+                dataRefreshInterval: 360000,
+                linesPerPage: 10,
+                paginationInterval: 100000
+            },
+            roskildeB: {
+                courseTimeout: 3600000,
+                dataRefreshInterval: 360000,
+                linesPerPage: 10,
+                paginationInterval: 100000
             }
-]
+}]
