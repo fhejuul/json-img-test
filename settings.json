@@ -1,5 +1,4 @@
 [
-dataFromApi: {
             hvidovre: {
                 courseTimeout: 3600000,
                 dataRefreshInterval: 360000,
@@ -29,6 +28,5 @@ dataFromApi: {
                 dataRefreshInterval: 360000,
                 linesPerPage: 10,
                 paginationInterval: 100000
-            },
-        }
+            }
 ]
