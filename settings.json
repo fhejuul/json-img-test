@@ -1,6 +1,6 @@
-[
-            courseTimeout: 3600000,
-            dataRefreshInterval: 360000,
-            linesPerPage: 10,
-            paginationInterval: 10000      
-]
+{
+  "courseTimeout": "19600"
+  "dataRefreshInterval": "80",
+  "linesPerPage": "10",
+  "paginationinterval": "10"
+}
